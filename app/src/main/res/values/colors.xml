@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D14457</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#649AFB</color>
+    <color name="colorTwo">#A0453C</color>
+    <color name="green">#28B463</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="red">#F44336</color>
+
+
+    <color name="background_app">#333A42</color>
+    <color name="background_app_2">#222327</color>
+
+    <color name="editText">#f8f8f8</color>
+    <color name="editTexthint">#A1F8F8F8</color>
+
+
+    <color name="btn_text">#FFFFFF</color>
+    <color name="btn_style">#A0453C</color>
+
+    <color name="btn_light">#6FA0453C</color>
+
+    <color name="tint_white">#FCFCFC</color>
+</resources>
