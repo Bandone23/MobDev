@@ -24,8 +24,6 @@
     <string name="toast_session_fail">No se pudo iniciar session</string>
     <string name="toast_session_error_email">Email no Valido</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>

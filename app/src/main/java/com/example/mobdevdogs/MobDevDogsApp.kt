@@ -10,7 +10,7 @@ import org.koin.core.context.startKoin
 import org.koin.core.logger.Level
 
 
-const val URL_BASE_EXPERIENCE_API = "http://192.168.20.5:4000/api/"
+const val URL_BASE_API = "https://dog.ceo/api/"
 const val DATABASE_NAME = "basquetcamp.sqlite"
 const val DATABASE_VERSION = 2
 const val TABLE_MATCHES ="matches"
