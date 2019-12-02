@@ -2,19 +2,9 @@
 <menu
         xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-            android:id="@+id/menu_partidos"
-            android:title="Partidos"
-            android:icon="@drawable/ic_partidos"/>
-
-    <item
-            android:id="@+id/menu_resultados"
-            android:title="Resultados"
-            android:icon="@drawable/ic_resultados"/>
-
-   <!-- <item
-            android:id="@+id/menu_equipos"
-            android:title="Equipos"
-            android:icon="@drawable/ic_equipos"/>-->
+            android:id="@+id/menu_breeds"
+            android:title="razas"
+            android:icon="@drawable/ic_dachshund"/>
 
 
 </menu>
